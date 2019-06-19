@@ -1,0 +1,49 @@
+body {
+background: grey
+margin = 0;
+padding = 0;
+}
+
+      header {
+        background: black;
+        color: white;
+        padding : 20px 40px 10px 50px;
+
+      }
+
+      header .logo a {
+        backgroung-image: url("image/logo.jpg");
+        backhround: red;
+        display: inline-block;
+        height 80px;
+
+        text-indent: -99999999px;
+        width: 300px;
+      }
+section {
+background: white;
+padding : 20px 40px 10px 50px;
+}
+
+div {
+background: grey;
+display : inline-block;
+margin: auto;
+width: 100px
+
+  ul {
+    margin: 0;
+    padding: o;
+    list-style-type: none;
+
+  }
+  li {
+    display: inline-block;
+    margin right: 20px;
+  }
+
+          footer {
+            background: black;
+            color : white;
+            padding : 20px 40px 10px 50px;
+}
